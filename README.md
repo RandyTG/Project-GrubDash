@@ -4,7 +4,6 @@ Server API for managing GrubDash requests
 
 ## Links
 
-* [Live App]()
 * [App documentation](https://github.com/Thinkful-Ed/starter-grub-dash-front-end)
 
 ## Technology
